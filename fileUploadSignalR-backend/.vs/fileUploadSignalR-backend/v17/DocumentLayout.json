@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93BC7F-D82F-4252-8996-B72E8F49BC2D}|webAPI\\webAPI.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\webapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93BC7F-D82F-4252-8996-B72E8F49BC2D}|webAPI\\webAPI.csproj|solutionrelative:webapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\application\\query handler\\getprocessedrowsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|solutionrelative:application\\query handler\\getprocessedrowsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\application\\command\\processfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|solutionrelative:application\\command\\processfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304B7FD0-740A-4AF5-83AF-3010C9510E43}|Infrastructure\\Infrastructure.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\infrastructure\\fileuploadhub\\fileprocessinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B7FD0-740A-4AF5-83AF-3010C9510E43}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\fileuploadhub\\fileprocessinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\application\\command handler\\processfilecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|solutionrelative:application\\command handler\\processfilecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC93BC7F-D82F-4252-8996-B72E8F49BC2D}|webAPI\\webAPI.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC93BC7F-D82F-4252-8996-B72E8F49BC2D}|webAPI\\webAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|c:\\users\\aiswarya.jayadev\\desktop\\ojt\\file-upload-signalr-backend\\fileuploadsignalr-backend\\application\\queries\\getprocessedrowsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B40069-93F5-4152-99D2-B2B8A2730C4F}|Application\\Application.csproj|solutionrelative:application\\queries\\getprocessedrowsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileProcessingHub.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Infrastructure\\FileUploadHub\\FileProcessingHub.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FileUploadHub\\FileProcessingHub.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Infrastructure\\FileUploadHub\\FileProcessingHub.cs",
+              "RelativeToolTip": "Infrastructure\\FileUploadHub\\FileProcessingHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:09:23.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessFileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Command\\ProcessFileCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Command\\ProcessFileCommand.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Command\\ProcessFileCommand.cs",
+              "RelativeToolTip": "Application\\Command\\ProcessFileCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:53:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProcessedRowsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Query Handler\\GetProcessedRowsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Query Handler\\GetProcessedRowsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Query Handler\\GetProcessedRowsQueryHandler.cs",
+              "RelativeToolTip": "Application\\Query Handler\\GetProcessedRowsQueryHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:19:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\webAPI\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "webAPI\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\webAPI\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "webAPI\\Controllers\\FileUploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:59:14.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessFileCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Command Handler\\ProcessFileCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Command Handler\\ProcessFileCommandHandler.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Command Handler\\ProcessFileCommandHandler.cs",
+              "RelativeToolTip": "Application\\Command Handler\\ProcessFileCommandHandler.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:02:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\webAPI\\Program.cs",
+              "RelativeDocumentMoniker": "webAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\webAPI\\Program.cs",
+              "RelativeToolTip": "webAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:01:41.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProcessedRowsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Queries\\GetProcessedRowsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetProcessedRowsQuery.cs",
+              "ToolTip": "C:\\Users\\aiswarya.jayadev\\Desktop\\OJT\\file-upload-signalR-backend\\fileUploadSignalR-backend\\Application\\Queries\\GetProcessedRowsQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GetProcessedRowsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:19:11.244Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@fileUploadSignalR_HostAddress = http://localhost:5109
+
+GET {{fileUploadSignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

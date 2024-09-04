@@ -1,0 +1,26 @@
+input::file-selector-button {
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    background-color: dodgerblue;
+    padding: 10px 10px 10px 30px;
+    border: thin solid dodgerblue;
+    border-radius: 4px;
+  }
+  .file-input-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.file-input-container i {
+    position: absolute;
+    left: 8px;
+    font-size: 14px;
+    color: #f3f5f6;
+}
