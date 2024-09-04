@@ -1,0 +1,47 @@
+<div class="file-upload-container">
+    <div class="buttonContainer">
+    <div class="file-input-container">
+        <i class="pi pi-plus"></i>
+        <input type="file" id="myfile" name="myfile" (change)="onFileSelected($event)" accept=".csv" />
+    </div>
+    
+    <p-button label="Upload" (click)="onUpload()" icon="pi pi-upload"/>
+</div>
+    <!-- <button (click)="onGetData()">GetData</button> -->
+    <!-- <p>{{header}}</p>
+    <ul>
+      <li *ngFor="let row of processedRows">{{ row }}</li>
+    </ul>
+  </div> -->
+  
+  <div class="card">
+    <p-table [value]="processedRows" styleClass="p-datatable-gridlines" [tableStyle]="{ 'min-width': '50rem' }">
+        <ng-template pTemplate="header">
+          <tr>
+            <th *ngFor="let col of columns">{{ col.header }}</th>
+          </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-processedRows>
+          <tr>
+            <td *ngFor="let col of columns">{{ processedRows[col.field] }}</td>
+          </tr>
+        </ng-template>
+      </p-table>
+      
+</div>
+  <!-- <p-toolbar styleClass="mb-4 gap-2">
+    <ng-template pTemplate="right">
+   <p-button 
+  pRipple 
+  label="New" 
+  icon="pi pi-plus" 
+  class="mr-2"  (click)="addUser()"   />
+  </ng-template>
+  </p-toolbar> -->
+  
+<!--   
+    <p-toast />
+    <p-confirmDialog /> -->
+    
+  
+  
